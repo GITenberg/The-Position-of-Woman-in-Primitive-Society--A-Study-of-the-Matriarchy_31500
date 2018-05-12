@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9204'
     url: http://www.gutenberg.org/2009/agents/9204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31500#The-Position-of-Woman-in-Primitive-Society--A-Study-of-the-Matriarchy
 gutenberg_issued: '2010-03-04'
 gutenberg_type: Text
 identifiers:
